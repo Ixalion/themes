@@ -1,0 +1,6 @@
+[submodule "zukitwo-cinnamon"]
+	path = zukitwo-cinnamon
+	url = https://github.com/zagortenay333/zukitwo-cinnamon.git
+[submodule "numix-cinnamon"]
+	path = numix-cinnamon
+	url = https://github.com/zagortenay333/numix-cinnamon
